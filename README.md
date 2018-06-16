@@ -1,3 +1,3 @@
-# PostBEM App Boilerplate
+# Project stub for PostBEM
 
 The App boilerplate for PostBEM.
